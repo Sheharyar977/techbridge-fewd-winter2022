@@ -1,0 +1,19 @@
+.Header { 
+    text-align:center; 
+}
+body { 
+    
+    background-color: lightblue; 
+}
+.table {  
+    color: black; 
+    margin: auto;
+    border: black;
+}
+.table1 {
+         
+        border: black;   
+}
+a:hover { 
+    background-color: red; 
+}
