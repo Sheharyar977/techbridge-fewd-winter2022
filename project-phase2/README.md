@@ -1,4 +1,4 @@
-# techbridge-fewd-project-phase2-problems
+# techbridge-fewd-project-phase2
 
 
 
@@ -17,3 +17,5 @@ Scripts.js
 Index.html
 * This is the current catalog with flex boxes and button layout of the website. Navigation bar will not work since other html files for the websites have not been added to this folder
  
+PPTPresentation_Phase2
+* This is a quick summary of the above files and the code involved in creating them. 
